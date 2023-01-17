@@ -1,0 +1,24 @@
+p{
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-size: 50px;
+  font-weight: 600;
+}
+article{
+  background-color: #1d3557;
+  color: aliceblue;
+  width: 50%;
+  margin-left:300px ;
+  padding: 2%;
+  border-radius: 5px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  width: 50%;
+  margin-left: 120px;
+}
